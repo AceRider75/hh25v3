@@ -16,11 +16,10 @@ Groqity Groq addresses the challenge of seamless cross-lingual communication. It
 c0mpile_ERr0r
 
 **Team Members:**
-*   Subhrajit Mukherjee
+*   Subhrajit Mukherjee  **github.com/AceRider75/hh25v3/**
 *   Krishnendu Banerjee
 *   Kalpak Majumdar
-github.com/AceRider75/hh25v3/
-
+  
 **Our Approach:**
 *   **Why we chose this problem:** We noticed a gap in the market for chatbots that seamlessly integrate multi-language support, multiple input methods (text, audio, image), and prioritized user privacy through local storage.
 *   **Key challenges addressed:**

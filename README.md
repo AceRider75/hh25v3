@@ -5,7 +5,6 @@ Breaking Language Barriers with AI-Powered Conversations
 ## 📌 Problem Statement
 
 **Problem Statement 1 – Weave AI magic with Groq**
-*(Note: Please replace this with the specific problem statement number and title from the official Participant Manual if different.)*
 
 ## 🎯 Objective
 

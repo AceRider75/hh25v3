@@ -494,7 +494,7 @@ async function sendImageToBackend(imageFile) {
 
         const data = await response.json();
         // Extract the actual text from the response object
-        const description = data.response?.generated_text || "Assistant: (No description available)"; // Added null check
+        const description = data.response || "Assistant: (No description available)"; // Added null check
         addMessageToChat(description, 'assistant'); // Use the extracted description
         clearStatus();
     } catch (error) {

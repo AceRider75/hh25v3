@@ -16,7 +16,7 @@ Groqity Groq addresses the challenge of seamless cross-lingual communication. It
 c0mpile_ERr0r
 
 **Team Members:**
-*   Subhrajit Mukherjee  **github.com/AceRider75/hh25v3/**
+*   Subhrajit Mukherjee                  **github.com/AceRider75/hh25v3/**
 *   Krishnendu Banerjee
 *   Kalpak Majumdar
   

@@ -21,7 +21,7 @@ load_dotenv()
 
 # WARNING: Hardcoding API keys is insecure. Replace with environment variable loading.
 # api_key = os.environ.get("GROQ_API_KEY")
-api_key = "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" # Replace with your key or env var loading
+# Replace with your key or env var loading
 
 # --- Globals --- 
 # Initialize Groq client with API key from environment variable

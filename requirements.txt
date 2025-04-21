@@ -1,6 +1,6 @@
 fastapi==0.109.2
 uvicorn[standard]==0.27.1
-groq==0.4.2
+groq
 openai-whisper==20231117
 gTTS==2.5.1
 transformers

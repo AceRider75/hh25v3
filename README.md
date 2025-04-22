@@ -1,4 +1,5 @@
-![IXsAtDG_kWITfVcoIq7FN](https://github.com/user-attachments/assets/b7c6517c-3848-4f3b-bc34-28421a599d02)
+
+![ZHBJe_qNY8dSvkzORNROg](https://github.com/user-attachments/assets/0d2c72c7-d547-46b0-bda6-47cf27cf4852)
 
 # 🚀 Groqity Groq
 

@@ -51,7 +51,7 @@ c0mpile_ERr0r
 
 ## 📽️ Demo & Deliverables
 
-*   **Demo Video Link:** [Paste YouTube or Loom link here]
+*   **Demo Video Link:** [https://youtu.be/iqdVjZFobP8?si=bQxvVUactUGH06Nw]
 *   **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/1iZO8YV6WkYA_Vj6Y7dAJEw6s6_tz7ExpAStcaGjdSu4/edit?usp=sharing]
 
 ## ✅ Tasks & Bonus Checklist

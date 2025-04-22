@@ -1,3 +1,6 @@
+
+![IXsAtDG_kWITfVcoIq7FN](https://github.com/user-attachments/assets/b7c6517c-3848-4f3b-bc34-28421a599d02)
+
 # 🚀 Groqity Groq
 
 Breaking Language Barriers with AI-Powered Conversations
